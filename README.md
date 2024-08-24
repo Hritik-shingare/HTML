@@ -1,7 +1,7 @@
-📂 HTML Codes Repository
+<H1>📂 HTML Codes Repository</H1>
 Welcome to my HTML Codes Repository! This repository serves as a comprehensive collection of all the HTML projects, assignments, and practice exercises I've worked on during my journey into web development. As someone passionate about coding and eager to dive deep into the world of web design, this repository reflects my ongoing learning process and growing expertise in HTML.
 
-🌟 Purpose of This Repository
+<H2>🌟 Purpose of This Repository</H2>
 This repository is more than just a storage place for code; it's a testament to my commitment to mastering the fundamental building blocks of web development. HTML, or Hypertext Markup Language, is the backbone of any web page, and understanding it is crucial for anyone aspiring to become a proficient web developer. Through this repository, I aim to document my progress, share my knowledge, and showcase my skills as I learn and implement various HTML concepts.
 
 🛠️ What's Inside?
